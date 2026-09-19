@@ -1,2 +1,8 @@
 # Brushup-python
-This repo has most of the python which i have practiced while learning
+
+## Lesson 1
+
+## Lesson 2
+
+### Booleans → Logic → Loops → Lists 
+
